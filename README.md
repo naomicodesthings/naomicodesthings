@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @naomicodesthings (Naomi)
-- 👀 I’m interested in ... Languages 
-- 🌱 I’m currently learning ... Python
-- 💞️ I’m looking to collaborate on ... Python and MySQL
+- 👋 Hi, I’m @naomicodesthings **(Naomi)**
+- 👀 I’m interested in ... **Languages **
+- 🌱 I’m currently learning ... **Python**
+- 💞️ I’m looking to collaborate on ... **Python and MySQL**
 - 📫 How to reach me ... naomi.claire@live.com 
 
 <!---
