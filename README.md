@@ -1,8 +1,11 @@
 - 👋 Hi, I’m @naomicodesthings **(Naomi)**
-- 👀 I’m interested in ... **Languages **
-- 🌱 I’m currently learning ... **Python**
-- 💞️ I’m looking to collaborate on ... **Python and MySQL**
+- 👀 I’m currently working in Education but I am pursuing a career in software development
+- 🌱 I’m currently undertaking the CodeFirstGirls Software Engineering Nanodegree course
+- 💞️ I’m looking to collaborate on any apps or programs related to languages and or education
 - 📫 How to reach me ... naomi.claire@live.com 
+
+Software skills:
+Python | MySQL | HTML | CSS | Bootstrap
 
 <!---
 naomicodesthings/naomicodesthings is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
